@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html> <head> <title>About Me</title> <style> body
+ { font-family: 'Times New Roman'; background-color: #d8adad; text-align: center; }
+  h1 { color: #0a0202; } p { color: #0d0c0c; font-size: 18px; } 
+  </style> </head> <body> <h1>About Me</h1> <width="200"> <p>Hello, my name is Paul E Koroma. 
+    I am a Student of Central University pursuing my Bsc. Computer Science.
+     I am now in my Second year. I am skilled in Multimedia and always strive to
+      learn new technologies and improve my abilities. In my free time, I enjoy
+       Sport and spending time with my family and friends.</p> </body> 
+</html>
